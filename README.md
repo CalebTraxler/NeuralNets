@@ -1,2 +1,3 @@
 # NeuralNets
 My project develops a binary classification neural network for number recognition/prediction, distinguishing between two number categories using layers optimized for numerical data. It focuses on efficient data preprocessing, model training with accuracy metrics, and real-world application potential.
+I developed a two-layer neural network for binary classification, using softmax output and ReLU nonlinearity. Key features included L2 regularization, loss and gradient computation, and stochastic gradient descent for training. Achieving over 96% accuracy in tests, I honed skills in model initialization, hyperparameter tuning, and practical application of machine learning concepts.
